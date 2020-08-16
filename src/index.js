@@ -4,10 +4,23 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// new imports added
+import { createStore } from 'redux'
+import { Provider } from 'react-redux'
+import reducer from './reducers'
+
+// initialize the redux store
+const reduxStore = createStore(reducer)
+
 ReactDOM.render(
-  <React.StrictMode>
+  <Provider store={reduxStore}>
+    {
+    /* wrapped the app in provider and 
+    passed in our initialized redux store */
+    }
+    
     <App />
-  </React.StrictMode>,
+  </Provider>,
   document.getElementById('root')
 );
 
