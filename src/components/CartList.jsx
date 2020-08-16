@@ -1,20 +1,17 @@
 import React from 'react';
+import { connect } from 'react-redux';
+
 
 class CartList extends React.Component {
-    
-    state = {
-        cartList: [
-        ]
-    };
 
     render() {
         return (
             <div className="cart-list-container">
                 <h2>Cart List</h2>
                 <div className="cart-list">
-                    {this.state.cartList.map((product, index) => {
+                    {this.props.cartList.map((product, index) => {
                         return (
-                            <div key={index}>{product.name}</div>
+                            <div className="cart-item" key={index}>{product.name}</div>
                         );
                     })}
                 </div>
@@ -23,4 +20,10 @@ class CartList extends React.Component {
     }
 }
 
-export default CartList;
+const mapStateToProps = globalState => {
+    return {
+        cartList: globalState.productReducer.cartList
+    }
+}
+
+export default connect(mapStateToProps)(CartList);
