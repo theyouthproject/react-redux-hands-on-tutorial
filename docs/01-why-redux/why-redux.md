@@ -63,4 +63,4 @@ Now this is much better. Now even the state of all the components is **centraliz
 
 ## Ok, I am convinced, Redux is way to go! Now tell me how to get started.
 
-[Go to Next Page: Redux Architecture >>]()
+[Go to Next Page: Redux Architecture >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/02-redux-architecture/redux-architecture.md)

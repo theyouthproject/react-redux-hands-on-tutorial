@@ -36,4 +36,4 @@ There is no specific rule that the keys should be `type` and `payload` but this 
 
 Cool, now we are ready to create our hands-on application. Let's get started!
 
-[Go to Next Page: Hands-On Part 1 >>]()
+[Go to Next Page: Hands-On Part 1 >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/01-bootstrap-react.md)

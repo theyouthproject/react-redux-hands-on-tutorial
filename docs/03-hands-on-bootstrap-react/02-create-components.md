@@ -86,4 +86,4 @@ export default CartList;
 ### Explanation
 Currently in the components we can see the state is maintained inside the components only. In this case, if we don't want to use redux, we will put the API calls inside the components. But for start, we will just target to move the state from components to redux store.
 
-[Go to Next Page: Hands-On Part 3 >>]()
+[Go to Next Page: Hands-On Part 3 >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/03-redux-setup.md)

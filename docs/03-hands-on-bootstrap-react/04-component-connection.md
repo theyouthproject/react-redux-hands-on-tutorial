@@ -361,4 +361,4 @@ export default connect(mapStateToProps)(CartList);
 ## That's it!
 Your application should now work as expected. We still have one piece of mystery that we haven't resolved in this tutorial. And that's how to do API calls? We will see it in the second part of the tutorial. Feel free to suggest changes and ask questions to your TYP mentors. The code base is available to you in this repository which will show how the code will look at the end.
 
-[Go back to Tutorial Home]()
+[Go back to Tutorial Home](https://github.com/theyouthproject/react-redux-hands-on-tutorial)

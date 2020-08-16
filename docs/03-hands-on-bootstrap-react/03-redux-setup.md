@@ -136,5 +136,5 @@ serviceWorker.unregister();
 
 The redux setup is complete. There is one last thing we need to do before we are able to connect the components to our redux store via reducers.
 
-[Go to Next Page: Hands-On Part 4 >>]()
+[Go to Next Page: Hands-On Part 4 >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/04-component-connection.md)
 

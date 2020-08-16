@@ -13,17 +13,17 @@ Next, rather than jumping directly into the redux architecture, let's see why ac
 ## Why do I need Redux?
 In simple words, you don't need redux but **you definitely need something like redux if not redux** in your application. As the application scales it becomes harder and harder to manage so many components and the state which is in them. Let's use a simple E-Commerce example to explain why.
 
-[Go to Next Page: Why Redux? >>]()
+[Go to Next Page: Why Redux? >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/01-why-redux/why-redux.md)
 
 Follow the tutorial by clicking the link above. But in case you want to jump some specific topic, use the index below.
 
 ## Index
-- [Welcome]() -- current page
-- [Why Redux]()
-- [Redux architecture]()
+- [Welcome](https://github.com/theyouthproject/react-redux-hands-on-tutorial) -- current page
+- [Why Redux](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/01-why-redux/why-redux.md)
+- [Redux architecture](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/02-redux-architecture/redux-architecture.md)
 - **Hands-on**
-    - [Bootstrap react application]()
-    - [Create initial react components]()
-    - [Redux setup]()
-    - [Connection to the component]()
+    - [Bootstrap react application](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/01-bootstrap-react.md)
+    - [Create initial react components](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/02-create-components.md)
+    - [Redux setup](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/03-redux-setup.md)
+    - [Connection to the component](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/04-component-connection.md)
 - Redux Thunk (upcoming...)

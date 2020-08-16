@@ -43,4 +43,4 @@ export default App;
 ### Step 3: Create new components
 For this demo, we will just need two components, one is `ProductList.js` where we will display all the list of products and secondly `CartList.js` where we will display the products added to shopping cart.
 
-[Go to Next Page: Hands-On Part 2 >>]()
+[Go to Next Page: Hands-On Part 2 >>](https://github.com/theyouthproject/react-redux-hands-on-tutorial/blob/master/docs/03-hands-on-bootstrap-react/02-create-components.md)
